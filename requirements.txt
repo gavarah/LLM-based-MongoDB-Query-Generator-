@@ -1,0 +1,8 @@
+streamlit
+pymongo
+pandas
+langchain
+langchain-openai
+langchain-google-genai
+langchain-ollama
+certifi
